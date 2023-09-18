@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm BASTIAN</h1>
-<h3 align="center">A STUDENT FULLSTACK ENGINEER FROM AUSTRIA</h3>
+<h3 align="center">A SYSTEM ENGINEER & PROGRAMMER FROM AUSTRIA</h3>
 
 - 🔭 I’m currently working on **My own FincanceManager App for IOS**
 
