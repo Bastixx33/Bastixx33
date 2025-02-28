@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **My own FincanceManager App for IOS**
 
-- 📝 I regularly write articles on [twitter.com/bastixx33](twitter.com/bastixx33)
+- 📝 I regularly write articles on [x.com/bastixx33](x.com/bastixx33)
 
-- 📫 How to reach me **EinBasti#6239 on Discord**
+- 📫 How to reach me **einbasti on Discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
